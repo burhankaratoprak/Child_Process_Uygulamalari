@@ -1,12 +1,8 @@
 # Child Process Uygulamaları
+## 1.Child Process Oluşturma ve Yönetimi
+Amaç:
+Bu uygulama, bir child process oluşturmayı ve parent process ile child process arasındaki etkileşimi öğrenerek bu konuda pratik yapmayı hedeflemektedir.
 
-# Açıklama
-Bu proje, child process yönetimi konusunda pratik yapmanıza olanak sağlayan örnekler içerir. Her görev farklı bir işlem gerçekleştirmek üzere tasarlanmıştır.
-
-# Görevler
-1. **Görev 1**: Bir child process oluşturma ve parent process ile etkileşim kurma.
-2. **Görev 2**: Child process'lerde hata yönetimi ve çıkış durumlarının analizi.
-3. **Görev 3**: Paralel çalışan birden fazla child process oluşturma ve bunların koordinasyonu.
 
 ## Nasıl Çalıştırılır
 Her görev için aşağıdaki komutları izleyerek kodu derleyin ve çalıştırın:
